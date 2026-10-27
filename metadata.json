@@ -1,0 +1,6 @@
+{
+  "name": "Jigsaw Puzzles",
+  "description": "Classic jigsaw puzzle game with HD pictures, interlocking pieces, edge piece filter, hints, customizable piece counts, and custom photo puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
